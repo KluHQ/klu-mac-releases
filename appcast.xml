@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>v0.0.1-alpha11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
-            <enclosure url="Klu-v0.0.1-alpha11.dmg" length="5745070" type="application/octet-stream"/>
+            <enclosure url="https://github.com/KluHQ/klu-mac-releases/releases/download/untagged-ab046e8d9b308f249e22/Klu-v0.0.1-alpha11.dmg" length="5745070" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
