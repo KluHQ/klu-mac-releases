@@ -4,6 +4,22 @@
     <title>Klu</title>
     <item>
       <title>v0.0.1-alpha16</title>
+      <pubDate>Thu, 17 Jul 2025 14:15:19 +0300</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>v0.0.1-alpha16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
+      <enclosure url='https://github.com/KluHQ/klu-mac-releases/releases/download/v0.0.1-alpha16/Klu-v0.0.1-alpha16.dmg' length='4321740' type='application/octet-stream'/>
+    </item>
+    <item>
+      <title>v0.0.1-alpha16</title>
+      <pubDate>Thu, 17 Jul 2025 14:15:08 +0300</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>v0.0.1-alpha16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
+      <enclosure url='https://github.com/KluHQ/klu-mac-releases/releases/download/v0.0.1-alpha16/Klu-v0.0.1-alpha16.dmg' length='4321740' type='application/octet-stream'/>
+    </item>
+    <item>
+      <title>v0.0.1-alpha16</title>
       <pubDate>Thu, 17 Jul 2025 14:13:10 +0300</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>v0.0.1-alpha16</sparkle:shortVersionString>
