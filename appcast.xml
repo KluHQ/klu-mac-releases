@@ -3,6 +3,14 @@
   <channel>
     <title>Klu</title>
     <item>
+      <title>v0.0.1-alpha29</title>
+      <pubDate>Mon, 05 Jan 2026 13:12:33 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>v0.0.1-alpha29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13</sparkle:minimumSystemVersion>
+      <enclosure url='https://github.com/KluHQ/klu-mac-releases/releases/download/v0.0.1-alpha29/Klu-v0.0.1-alpha29.dmg' length='5134576' type='application/octet-stream' sparkle:edSignature='CC/Q5u7C3Bb7CHa8SSckXTGMN4Y71+A6PMDGvIU1xRbcZHdtJqILu5sIu/bsYuH5zK/AmJ8cGvCemIgSI72MBQ=='/>
+    </item>
+    <item>
       <title>v0.0.1-alpha28</title>
       <pubDate>Sat, 26 Jul 2025 12:19:13 +0300</pubDate>
       <sparkle:version>13</sparkle:version>
